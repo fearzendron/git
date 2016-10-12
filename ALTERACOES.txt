@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 asdasdasdasdasdasd
 aaaNova alteração
+=======
+Nova alteração
+>>>>>>> 6ae1ea1eb3613f59e48a3abe5f677b832e0bf9e2
